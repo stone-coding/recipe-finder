@@ -1,5 +1,9 @@
 # Recipe Finder – AI Generated Prototype
 
+
+## Live Demo
+https://recipe-finder-three-brown.vercel.app/
+
 ## Project Description
 
 This project is an AI-assisted interactive prototype of a Recipe Finder web application. The goal of the prototype is to explore how AI can accelerate UI prototyping and early usability testing.
